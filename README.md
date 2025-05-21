@@ -3,4 +3,4 @@
 Portada de diario propio desarrollada con HTML y CSS.
 
 **GitHub Pages:**  
-https://facundosuarez.github.io/TP2_Flexbox
+https://facundosuarezuai.github.io/facundosuarez.github.io/
